@@ -1,1 +1,1 @@
-# 1082NO-BASE-in-Python
+# 1082NO-Base Coding class-in-Python
